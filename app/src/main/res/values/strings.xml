@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Syncave</string>
+    <string name="version">V1.1.2</string>
+    <string name="username">USERNAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="accountcreate">Create Account</string>
+    <string name="help">Need Help?</string>
+    <string name="name">NAME</string>
+    <string name="email">EMAIL</string>
+    <string name="loginbtntext">Get Started</string>
+    <string name="createbtntext">Continue</string>
+    <string name="tandc">Terms &amp; Conditions</string>
+    <string name="headfirst">Locate Lost phone</string>
+    <string name="headsec">Back Up phone</string>
+    <string name="headthree">Erase Lost phone</string>
+    <string name="cont">continue</string>
+    <string name="firstslidercont">ed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium</string>
+    <string name="locatephonetext">Locate\nLost Phone</string>
+    <string name="backuptext">Back Up\nPhone</string>
+    <string name="erasephonetext">Erase\nLost Phone</string>
+    <string name="ringphonetext">Ring Lost\nPhone</string>
+
+</resources>
